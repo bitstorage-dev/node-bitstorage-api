@@ -1,0 +1,27 @@
+{
+  "name": "node-bitstorage-api",
+  "version": "1.0.0",
+  "description": "node-bitstorage-api is NodeJS library for the BitStorage API designed to be easy to use",
+  "main": "node-bitstorage-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitstorage-dev/node-bitstorage-api.git"
+  },
+  "keywords": [
+    "\"BitStorage\"",
+    "\"cryptocurrency\""
+  ],
+  "author": "bitstorage-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitstorage-dev/node-bitstorage-api/issues"
+  },
+  "homepage": "https://github.com/bitstorage-dev/node-bitstorage-api#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "node-fetch": "^2.6.0"
+  }
+}
